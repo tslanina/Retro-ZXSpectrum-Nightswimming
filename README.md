@@ -2,6 +2,13 @@
 
 256 bytes intro
 
+The world is full of idiots.
+
+The only safe place is the ocean.
+
+At night...
+
+
 2nd place @Xenium 2k22
 ## Tech
 * ZX Spectrum 48 (128 or AY for noise)
