@@ -1,13 +1,10 @@
 # NIGHTSWIMMING
 
-256 bytes intro
-
 The world is full of idiots.
-
 The only safe place is the ocean.
-
 At night...
 
+256 bytes intro
 
 2nd place @Xenium 2k22
 ## Tech
